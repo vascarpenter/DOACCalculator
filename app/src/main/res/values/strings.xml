@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DOACCalculator</string>
+    <string name="scr">sCr</string>
+    <string name="bodyheight">Body Height</string>
+    <string name="bodyweight">Body Weight</string>
+    <string name="age">Age</string>
+    <string name="sex">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="calculate">Calculate</string>
+    <string name="renalStage">Severity</string>
+    <string name="ccr">Ccr</string>
+    <string name="ml_min">ml/min</string>
+    <string name="ml_min_1_73">ml/min/1.73㎡</string>
+    <string name="egfr">eGFR</string>
+    <string name="m2">㎡</string>
+    <string name="bsa">BSA</string>
+    <string name="prazaxa">prazaxa</string>
+    <string name="xarelto">xalerto</string>
+    <string name="eliquis">eliquis</string>
+    <string name="lixiana">lixiana</string>
+    <string name="normal">Normal</string>
+    <string name="mild_decreased">mild renal dysfunction</string>
+    <string name="moderate_decreased">moderate renal dysfunction</string>
+    <string name="severe_decreased">severe renal dysfunction</string>
+    <string name="esrd">end stage renal dysfunction</string>
+</resources>

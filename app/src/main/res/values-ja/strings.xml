@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DOACCalculator</string>
+    <string name="scr">sCr</string>
+    <string name="bodyheight">身長</string>
+    <string name="bodyweight">体重</string>
+    <string name="age">年齢</string>
+    <string name="sex">性別</string>
+    <string name="male">男性</string>
+    <string name="female">女性</string>
+    <string name="calculate">計算</string>
+    <string name="renalStage">腎不全重症度</string>
+    <string name="ccr">Ccr</string>
+    <string name="ml_min">ml/min</string>
+    <string name="ml_min_1_73">ml/min/1.73㎡</string>
+    <string name="egfr">eGFR</string>
+    <string name="m2">㎡</string>
+    <string name="bsa">BSA</string>
+    <string name="prazaxa">プラザキサ</string>
+    <string name="xarelto">イグザレルト</string>
+    <string name="eliquis">エリキュース</string>
+    <string name="lixiana">リクシアナ</string>
+    <string name="normal">正常</string>
+    <string name="mild_decreased">軽度腎障害</string>
+    <string name="moderate_decreased">中等度腎障害</string>
+    <string name="severe_decreased">高度腎障害</string>
+    <string name="esrd">末期腎不全</string>
+</resources>
