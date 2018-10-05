@@ -72,8 +72,8 @@ class MainActivity : Activity() {
 
             when {
                 gfr < 15 -> stage = "非推奨"
-                check >= 2 -> stage = "10mg 2T / 2xMA"
-                else -> stage = "15mg 2T / 2xMA"
+                check >= 2 -> stage = "2.5mg 2T / 2xMA"
+                else -> stage = "5mg 2T / 2xMA"
             }
             eliquisField.text = stage
 
